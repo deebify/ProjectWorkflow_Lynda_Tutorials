@@ -15,4 +15,3 @@ app.prototype.toString = function(){
 app.name = 'yassine';
 app.age = 21;
 app.toString();
-
