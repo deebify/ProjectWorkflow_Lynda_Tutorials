@@ -1,7 +1,7 @@
 /**
  * Created by deeb on 11/21/15.
  */
-var app = app | {};
+var app = function () {};
 app.prototype.test = function () {
     console.log('Test Function ');
 };
